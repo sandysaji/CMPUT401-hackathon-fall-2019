@@ -1,5 +1,5 @@
 # Hello
 
-This is a cat named Eddie:
+This is cat is named Something!
 
 ![This is a sleeping cat](./Sleeping-cat.gif)
